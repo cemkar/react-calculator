@@ -1,10 +1,12 @@
-export default function App() {
+
+function App() {
+  
   return (
     <div className="flex w-screen h-screen justify-center bg-slate-100">
     <div className="flex flex-col w-screen h-screen font-semibold text-4xl lg:w-4/12 lg:shadow-2xl">
       <div className="bg-slate-800 flex flex-col text-slate-100 h-1/4 pt-11 pl-5 pr-5 text-right">
         <div className="prev-operand text-xl">previous</div>
-        <div className="operand pt-5">current</div>
+        <div className="operand pt-5">operand</div>
       </div>
       <div className="flex h-1/4">
         <button className="bg-slate-700 flex-1 text-slate-100 p-3 ">AC</button>
@@ -34,3 +36,5 @@ export default function App() {
     </div>
   )
 }
+
+export default App;
