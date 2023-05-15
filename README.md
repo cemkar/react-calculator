@@ -1,3 +1,10 @@
 <h1>React Calculator</h1>
+<h3>About</h3>
+This project was built for the <a href="https://theodinproject.com">Odin project</a>. Utilizing React, Tailwind, and Typescript I have designed a responsive calculator.
+<h4>Tools</h4>
+  + React </br>
+  + Tailwind CSS </br>
+  + TypeScript </br>
+</br>
 
-This <a href="https://cemkar.github.io/react-calculator/">project</a> is a part of the Odin project. Utilizing React, Tailwind, and Typescript I have designed a responsive calculator.
+Live Version Avaliable 👉 <a href="https://cemkar.github.io/react-calculator/"> HERE </a>
